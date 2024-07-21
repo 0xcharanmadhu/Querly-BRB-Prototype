@@ -11,6 +11,12 @@
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
+## Team Project 
+
+1. Charan
+2. Manoj
+3. Kavya Goel 
+
 ## Introduction
 Querly is a collaborative project built by Charan, Manoj, and Kavya Goel at BRBBootcamp. Querly is a Web3 query management system designed to address the limitations of traditional Web2 customer support systems. It aims to resolve issues such as:
 1. Web2 chatbots relying on pre-set questions, leading to unresolved complex queries.
